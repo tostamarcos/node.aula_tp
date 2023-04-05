@@ -1,0 +1,26 @@
+[
+    {
+        "id": "0001",
+        "nome": "marcos tosta",
+        "idade": "35"
+
+    },
+    {
+        "id": "0002",
+        "nome": "soraia tosta",
+        "idade": "35"
+
+    },
+    {
+        "id": "0003",
+        "nome": "gabriel tosta",
+        "idade": "35"
+
+    },
+    {
+        "id": "0004",
+        "nome": "cebola tosta",
+        "idade": "35"
+
+    }
+]
